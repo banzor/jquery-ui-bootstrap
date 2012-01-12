@@ -1172,6 +1172,7 @@ div.wijmo-wijmenu{
 .wijmo-wijmenu .ui-state-default{
   box-shadow: none;
   color:#BFBFBF;
+  filter: none;
 }
 
 .wijmo-wijmenu .ui-state-default .wijmo-wijmenu-text{    
@@ -1201,6 +1202,7 @@ div.wijmo-wijmenu .ui-widget-header h3{
   font-weight: 200;
   line-height: 1;
   margin-left: -20px;
+  margin-top:2px;
   padding: 8px 20px 12px;
 }
 
